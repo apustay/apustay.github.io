@@ -1,2 +1,2 @@
 # apustay.github.io
-Data Science and Analytics Portfolio
+Data Science/Data Analytics Portfolio
